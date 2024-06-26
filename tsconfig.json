@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "lib": [
+            "dom",
+            "es2022",
+            "ES2022.String"
+        ],
+        "moduleResolution": "NodeNext",
+        "module": "NodeNext",
+        "esModuleInterop": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true
+    }
+}
